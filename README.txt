@@ -1,12 +1,12 @@
 Tattoo Catalog Website
  es una plataforma web
- diseñada para mostrar
- un catálogo de tatuajes
+ diseÃ±ada para mostrar
+ un catÃ¡logo de tatuajes
  de manera elegante e intuitiva.
 
 
 El objetivo del proyecto es permitir a los usuarios navegar entre distintos estilos de tatuajes,
- visualizar diseños destacados y facilitar la inspiración antes de realizarse un tatuaje
+ visualizar diseÃ±os destacados y facilitar la inspiraciÃ³n antes de realizarse un tatuaje
 .
 
 Este proyecto puede ser utilizado como:
@@ -15,31 +15,31 @@ Este proyecto puede ser utilizado como:
 
 Portafolio para tatuadores
 
-Catálogo digital para estudios de tatuaje
+CatÃ¡logo digital para estudios de tatuaje
 
-Plataforma de inspiración para clientes
+Plataforma de inspiraciÃ³n para clientes
 
 Base para futuras funcionalidades como reservas o perfiles de artistas
 
-? Características
+? CaracterÃ­sticas
 
-?? Diseño moderno y responsive
+?? DiseÃ±o moderno y responsive
 
-?? Búsqueda de tatuajes por nombre o estilo
+?? BÃºsqueda de tatuajes por nombre o estilo
 
-??? Categorías de tatuajes
+??? CategorÃ­as de tatuajes
 
-?? Compatible con dispositivos móviles
+?? Compatible con dispositivos mÃ³viles
 
-? Interfaz rápida e intuitiva
+? Interfaz rÃ¡pida e intuitiva
 
-??? Galería visual atractiva
+??? GalerÃ­a visual atractiva
 
 ?? Modo oscuro (opcional si existe)
 
 ?? Sistema de favoritos (si aplica)
 
-??? Tecnologías Utilizadas
+??? TecnologÃ­as Utilizadas
 
 Este proyecto fue desarrollado utilizando:
 
@@ -58,26 +58,26 @@ Node.js (si aplica)
 
 ?? Estructura del Proyecto
 tattoo-catalog/
-¦
+Â¦
 +-- public/
-¦
+Â¦
    +-- images/
 
-¦   +-- icons/
-¦
+Â¦   +-- icons/
+Â¦
 
 +-- src/
-¦ 
+Â¦ 
   +-- components/
-¦ 
+Â¦ 
   +-- pages/
-¦  
+Â¦  
  +-- styles/
-¦  
+Â¦  
  +-- data/
-¦  
+Â¦  
  +-- utils/
-¦
+Â¦
 
 +-- package.json
 
@@ -86,7 +86,7 @@ tattoo-catalog/
 +-- vite.config.js
 
 
-?? Instalación
+?? InstalaciÃ³n
 
 Clona el repositorio:
 
@@ -117,10 +117,10 @@ Una vez iniciado el proyecto, abre tu navegador en:
 
 http://localhost:5173
 
-Desde allí podrás:
+Desde allÃ­ podrÃ¡s:
 
-Explorar el catálogo de tatuajes
-Filtrar diseños por categorías
+Explorar el catÃ¡logo de tatuajes
+Filtrar diseÃ±os por categorÃ­as
 Visualizar detalles de cada tatuaje
 
 Navegar entre distintas secciones del sitio
@@ -128,7 +128,7 @@ Navegar entre distintas secciones del sitio
 ?? Capturas de Pantalla
 
 
-Agrega aquí imágenes de tu proyecto:
+Agrega aquÃ­ imÃ¡genes de tu proyecto:
 
 
 ![Home](./screenshots/home.png)
@@ -136,7 +136,7 @@ Agrega aquí imágenes de tu proyecto:
 
 ?? Funcionalidades Futuras
 
-?? Autenticación de usuarios
+?? AutenticaciÃ³n de usuarios
 
 ?? Base de datos en la nube
 
@@ -170,7 +170,7 @@ Abre un Pull Request
 
 ?? Licencia
 
-Este proyecto está bajo la licencia MIT.
+Este proyecto estÃ¡ bajo la licencia MIT.
 
 
 ????? Autor
@@ -178,4 +178,4 @@ Este proyecto está bajo la licencia MIT.
 Desarrollado por Antonio Mar 
 
 GitHub:
- https://github.com/Tony Mar23
+ https://github.com/TonyMar28
